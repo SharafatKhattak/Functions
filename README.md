@@ -1,2 +1,2 @@
 # Functions
-Make separate funtions for tasks and then call them to main function
+Most Used Common algorithms for Logic Building
